@@ -1,0 +1,6 @@
+pyobjc-core
+pyobjc-framework-CoreSpotlight
+pyobjc-framework-CoreServices
+pyobjc-framework-UniformTypeIdentifiers
+pyinstaller
+Pillow
